@@ -13,5 +13,5 @@ Requirements
 * Some text that is italicized
 * A block of code
 
-*Markdown Pages*
+**Markdown Pages**
 
