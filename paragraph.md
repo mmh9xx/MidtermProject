@@ -1,0 +1,1 @@
+My name is Mackenna Hale. I am currently a sophomore at Mizzou studying Microbiology. I am looking to change my major so I decided to take this introductory IT class, and so far I think it's a good fit. I am looking forward to learning more about IT and the careers it has to offer. 
