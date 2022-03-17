@@ -20,8 +20,8 @@
 5. Fretboard 
 
 ### Top Hiking Spots
-1. the Pinnacles
-2. the Cliff
+1. The Pinnacles
+2. The Cliff
 3. Devil's Icebox
 4. Stephen's Lake
-5. the Finger Lakes
+5. The Finger Lakes
