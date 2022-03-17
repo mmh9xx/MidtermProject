@@ -1,4 +1,4 @@
-# Lists
+# Lists of My Favorite Things
 
 ### Dog Breeds
 - Husky
