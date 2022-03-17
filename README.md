@@ -6,7 +6,7 @@ Requirements
 * [Headers](headersandlists.md)
 * Links between markdown pages
 * Links to other websites
-* [One or more images that are hosted in the GitHub repo](image.md)
+* [One or more images that are hosted in the GitHub repo](webimage.md)
 * One or more images that are hosted elsewhere on the web
 * [A list](headersandlists.md)
 * Some text that is bolded
