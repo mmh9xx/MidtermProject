@@ -8,7 +8,9 @@
 - Pomeranian
 - Corgi
 - Lab
-- Golden Retriever
+- Golden Retriever  
+
+[More dog breeds](https://www.akc.org/dog-breeds/)
 
 ### Top Coffee Shops
 1. Lakota
