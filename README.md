@@ -3,17 +3,15 @@ Create a personal site in markdown that is hosted on GitHub and provides informa
 
 Requirements
 * [Paragraphs](paragraph.md)
-* Headers 
+* [Headers](headersandlists.md)
 * Links between markdown pages
 * Links to other websites
 * One or more images that are hosted in the GitHub repo
 * One or more images that are hosted elsewhere on the web
-* A list
+* [A list](headersandlists.md)
 * Some text that is bolded
 * Some text that is italicized
 * A block of code
 
-**Markdown Pages**  
-[Markdown 1](GitHubtest.txt)
 
 
